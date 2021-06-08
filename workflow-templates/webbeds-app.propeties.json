@@ -1,0 +1,8 @@
+{
+    "name": "Webbeds Organization Workflow",
+    "description": "WebBeds CI/CD workflow template.",
+    "iconName": "webbeds",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
